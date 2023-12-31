@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Development**
 - 🤝 I’m looking for help with **I am Ready To Help**
 - 🌱 I’m currently learning **NODEJS , EXPRESS , FRAMER MOTION,GSAP, AND MERN**
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MYSQL,REACT,EXPRESS,VITE,REDUX-TOOLKIT,REDUX,GIT,TAILWIND CSS,SASS,PHP,BOOTSTRAP,MONGODB**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MYSQL,REACT,EXPRESS,VITE,REDUX-TOOLKIT,REDUX,GIT,TAILWIND CSS,SASS,PHP,BOOTSTRAP,MONGODB,GSAP,FRAMER-MOTION**
 - 📫 How to reach me **ataurovishek@gmail..com**
 - ⚡ Fun fact ** Iam Batman.**
 
@@ -31,6 +31,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-toolkit-original.svg" alt="Redux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
@@ -60,3 +61,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ataurovishek&theme=react"/>
+
+
+
+

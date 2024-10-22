@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ataur Rahman Ovishk</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh. Turning ideas into seamless web experience | coding enthusiasts.</h3>
+<h3 align="center">As a dedicated full-stack web developer, I specialize in crafting innovative and user-centric web applications. With a strong foundation in both front-end and back-end development, I leverage my technical expertise to deliver high-quality solutions. My passion for creating seamless digital experiences drives me to stay updated with the latest industry trends and technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataurovishek&label=Profile%20views&color=0e75b6&style=flat" alt="ataurovishek" /> </p>
 
 

@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on **Full Stack Development**
 - 🤝 I’m looking for help with **I am Ready To Help**
 - 🌱 I’m currently learning **NODEJS , EXPRESS , FRAMER MOTION,GSAP, AND MERN**
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MYSQL,REACT,EXPRESS,VITE,REDUX-TOOLKIT,REDUX,GIT,TAILWIND CSS,SASS,PHP,BOOTSTRAP,MONGODB,GSAP,FRAMER-MOTION**
-- 📫 How to reach me **ataurovishek@gmail..com**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NODEJS,MYSQL,REACT,NEXTJS,EXPRESS,VITE,JIRA,REDUX-TOOLKIT,REDUX,GIT,TAILWIND CSS,SASS,PHP,LARAVEL,BOOTSTRAP,MONGODB,GSAP,FRAMER-MOTION**
+- 📫 How to reach me **ataurovishek@gmail.com**
 - ⚡ Fun fact ** Iam Batman.**
 
 <div> <a href="https://twitter.com/ataur__ovishk" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
